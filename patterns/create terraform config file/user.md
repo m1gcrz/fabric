@@ -2,4 +2,6 @@ create absolute bare minimum needed, the only required to for something to work 
 
 #im coming from a place of the following:
 - learning to provision resources using terraform from an operational perspective
-- 
+- how it relates to the overall system
+- how it relates from an architectural perspective
+- how it relates to achieving business outfcomes
