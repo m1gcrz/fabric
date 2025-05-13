@@ -21,3 +21,5 @@ the building blocks:
 - objects surrounding it
 
 can you tell me more about the building blocks of s3, the units/objects surrounding it
+
+introduce concepts of security only when asked or required in the provisioning
