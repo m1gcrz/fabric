@@ -25,3 +25,6 @@ can you tell me more about the building blocks of s3, the units/objects surround
 introduce concepts of security only when asked or required in the provisioning
 
 should be actionable
+
+
+access the interface via api or other methods including native
