@@ -14,6 +14,7 @@ create absolute bare minimum needed, the only required to for something to work 
 - how to rollback the changes
 - how to check the status of the building blocks surrounding it
 - implications removing xyz, or systems that may affect its operation/functioning
+- how to provision the same thing but using its native tools(outside of terraform)
 
 the building blocks:
 - its smallest unit
