@@ -5,3 +5,9 @@ create absolute bare minimum needed, the only required to for something to work 
 - how it relates to the overall system
 - how it relates from an architectural perspective
 - how it relates to achieving business outfcomes
+
+the building blocks:
+- its smallest unit
+- objects surrounding it
+
+can you tell me more about the building blocks of s3, the units/objects surrounding it
