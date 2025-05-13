@@ -5,6 +5,11 @@ create absolute bare minimum needed, the only required to for something to work 
 - how it relates to the overall system
 - how it relates from an architectural perspective
 - how it relates to achieving business outfcomes
+- from a CICD/devops perspective
+- from a security perspective
+- what are the general use cases
+- best practice based on industry
+- best practice based on
 
 the building blocks:
 - its smallest unit
