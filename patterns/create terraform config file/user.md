@@ -10,6 +10,9 @@ create absolute bare minimum needed, the only required to for something to work 
 - what are the general use cases
 - best practice based on industry
 - best practice based on
+- how to verify changes
+- how to rollback the changes
+- how to check the status of the building blocks surrounding it
 
 the building blocks:
 - its smallest unit
