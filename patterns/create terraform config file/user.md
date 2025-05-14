@@ -28,8 +28,7 @@ should be actionable
 
 
 access the interface via api or other methods including native
-should consider lifecycles
-
-
 
 the account does not exist yet
+
+- should consider lifecycles
