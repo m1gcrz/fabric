@@ -28,3 +28,6 @@ should be actionable
 
 
 access the interface via api or other methods including native
+
+
+the account does not exist yet
