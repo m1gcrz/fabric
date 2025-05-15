@@ -34,3 +34,5 @@ the account does not exist yet
 - should consider lifecycles
 
 scalable
+
+thinking in terms of how to adopt what is most appropriate approach for a particular team - which tools, technologies, business needs, etc.
